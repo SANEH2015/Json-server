@@ -1,0 +1,16 @@
+{
+    "tranees":[
+       {"id":"tranee-1",
+       "name":"Sanele","surname":"Mkhize","color":"black","gender":"female","location":"Empangeni"
+       },
+       {
+       "id":"tranee-2",
+       "name":"Ayanda","surname":"Mthembu","color":"yellow","gender":"male","location":"Durban"
+       },
+       {
+        "id":"tranee-3",
+        "name":"Banele","surname":"Jaca","color":"Pink","gender":"Female","location":"Mzimkhulu"
+        }
+    ]
+
+}
